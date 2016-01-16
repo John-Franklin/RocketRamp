@@ -1,8 +1,8 @@
 {
-  "name": “RocketRamp Site”,
-  "description": “A rails app to be deployed to heroku“,
+  "name": "Heroku Rails sample app",
+  "description": "A barebones Rails app, which can easily be deployed to Heroku",
   "image": "heroku/ruby",
-  "repository": "https://github.com/John-Franklin/RocketRamp",
+  "repository": "https://github.com/heroku/ruby-getting-started",
   "keywords": ["ruby", "rails" ],
   "addons": [ "heroku-postgresql" ]
 }
